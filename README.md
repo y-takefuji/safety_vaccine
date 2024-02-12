@@ -48,7 +48,7 @@ set(A).union(B)
 </pre>
 The following figure shows what is intersection operation.
 
-<img src="https://github.com/ytakefuji/safety_vaccine/raw/main/set.jpg" width=700 height=560 >
+<img src="https://github.com/y-takefuji/safety_vaccine/raw/main/set.jpg" width=700 height=560 >
 
 # How to install vaers
 On WSL on Windows, MacOS, or Linux operating systems:
